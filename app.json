@@ -1,21 +1,22 @@
 {
   "expo": {
-    "name": "plainwater-rn",
+    "name": "평수계산기",
     "slug": "plainwater-rn",
-    "version": "1.0.0",
+    "version": "4.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "icon": "./assets/app_icon.png",
+    "userInterfaceStyle": "automatic",
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "icon": "./assets/app_icon_ios.png",
+      "bundleIdentifier": "com.devsmin.plainwater"
     },
     "android": {
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
-        "foregroundImage": "./assets/android-icon-foreground.png",
-        "backgroundImage": "./assets/android-icon-background.png",
-        "monochromeImage": "./assets/android-icon-monochrome.png"
+        "backgroundColor": "#000000",
+        "foregroundImage": "./assets/app_icon_foreground.png"
       },
+      "package": "com.devsmin.plainwater",
       "predictiveBackGestureEnabled": false
     },
     "web": {

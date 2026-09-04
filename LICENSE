@@ -1,21 +1,31 @@
-The MIT License (MIT)
+Copyright (c) 2026 smin
+All rights reserved. / 모든 권리 보유.
 
-Copyright (c) 2015-present 650 Industries, Inc. (aka Expo)
+이 저장소는 코드 열람 목적으로만 공개합니다. 오픈소스 라이선스가 부여되지
+않으며, 저작권자의 사전 서면 허락 없이 다음 행위를 할 수 없습니다.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+  - 소스 코드 및 에셋의 복제, 전재
+  - 수정 및 2차적 저작물 작성
+  - 배포, 재배포, 공개 전송
+  - 상업적 이용
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+GitHub 이용약관이 허용하는 범위의 열람 및 포크는 위 제한과 무관하게 적용됩니다.
+
+본 소프트웨어는 상품성, 특정 목적 적합성, 비침해에 대한 보증을 포함하여
+어떠한 명시적·묵시적 보증도 없이 "있는 그대로(AS IS)" 제공됩니다. 저작권자는
+본 소프트웨어의 사용 또는 사용 불능으로 인해 발생하는 어떠한 청구, 손해,
+기타 책임도 지지 않습니다.
+
+---
+
+This repository is published for source code viewing purposes only. No
+open-source license is granted. Reproduction, modification, distribution,
+creation of derivative works, and commercial use are prohibited without the
+prior written permission of the copyright holder.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR OTHER DEALINGS IN THE SOFTWARE.
