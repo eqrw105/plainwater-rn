@@ -2,7 +2,7 @@
   "expo": {
     "name": "평수계산기",
     "slug": "plainwater-rn",
-    "version": "4.0.0",
+    "version": "5.0.0",
     "orientation": "portrait",
     "icon": "./assets/app_icon.png",
     "userInterfaceStyle": "automatic",
@@ -16,7 +16,8 @@
         "backgroundColor": "#000000",
         "foregroundImage": "./assets/app_icon_foreground.png"
       },
-      "package": "com.devsmin.plainwater",
+      "package": "com.nims.plainwater",
+      "versionCode": 18,
       "predictiveBackGestureEnabled": false
     },
     "web": {
